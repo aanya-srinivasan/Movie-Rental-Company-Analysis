@@ -27,4 +27,5 @@ Objective: List films that are longer than the average length within each replac
 Objective: Calculate the average customer lifetime value per district, based on total payments made by each customer.
 13. 🎬 Payments and Revenue by Film Category
 Objective: List all payments, including the payment ID, amount, film category, and total revenue generated in each category, with a focus on the 'Action' category.
+
 These queries provide valuable insights for film rental businesses, including revenue generation, customer behavior, and film categorization. The database utilized in these queries contains tables related to films, actors, payments, customers, and categories.
